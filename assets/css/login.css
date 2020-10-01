@@ -2,8 +2,10 @@ body {
     background: url(/assets/images/bg.jpg);
     margin: 0;
     padding: 0;
+    height: 100vh;
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
     font-family: sans-serif;
 }
 
